@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akashr-kumarr
+- 👋 Hi, I’m Akash
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning ...
 
