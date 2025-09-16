@@ -16,8 +16,6 @@ I'm a first-year B.Tech student at G.L.Bajaj Institute of Technology and Managem
 | **Languages** | Python, C, C++ |
 | **OS & Shell** | Linux (Ubuntu), Bash/Shell scripting |
 | **Problem Solving** | Algorithms, Data Structures, Competitive Programming |
-| **Data Science** | [e.g., NumPy, Pandas, Matplotlib, Scikit-learn] |
-| **AI/ML** | [e.g., TensorFlow, PyTorch] |
 | **Version Control** | Git, GitHub |
 
 ---
