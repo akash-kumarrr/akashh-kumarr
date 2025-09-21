@@ -11,8 +11,6 @@ I'm a first-year B.Tech student at G.L.Bajaj Institute of Technology and Managem
 
 - **Computer Architecture & Designing:** Understanding CPU components, memory hierarchy, and instruction cycles.
 - **Data Structures & Algorithms:** Solving challenging problems on LeetCode and GeeksforGeeks.
-- **Python & C++ Projects:** Enhancing coding skills through practical applications.
-- **Linux & Command Line:** Improving efficiency and mastering shell scripting.
 
 ---
 
