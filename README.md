@@ -2,8 +2,7 @@
 
 I'm a first-year B.Tech student at G.L.Bajaj Institute of Technology and Management, majoring in Computer Science with a specialization in Data Science. I'm passionate about problem-solving and love building things from scratch.
 
-- 🔭 **I’m currently working on:** Data Structures and Algorithm.
-- 🌱 **I’m currently learning:** The fundamentals of AI and Machine Learning, focusing on algorithms and data-driven solutions.
+- 🌱 **I’m currently learning:** Computer Architecure and Desgining.
 - 💡 **My interests include:** Algorithms, Logical Problem Solving, Data Science, and AI/ML.
 - 💻 **My go-to tools are:** Python, C, and Linux. I'm very comfortable with the command line.
 
@@ -42,5 +41,5 @@ NEUROAI is an upcoming powerful AI and assistant bringing multiple intelligent f
 
 ### Get in Touch!
 
-- 📧 **Email:**     akashrbllps1444@gmail.com, akashrbllps4111@gmail.com
-- 💼 **LinkedIn:**      https://www.linkedin.com/in/akash-kumar-630578371/
+- 📧 **Email:** akashrbllps1444@gmail.com, akashrbllps4111@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/akash-kumar-630578371/
