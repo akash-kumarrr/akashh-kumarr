@@ -22,6 +22,7 @@ I'm a first-year B.Tech student at G.L.Bajaj Institute of Technology and Managem
 | **OS & Shell** | Linux (Ubuntu), Bash/Shell scripting |
 | **Problem Solving** | Algorithms, Data Structures, Competitive Programming |
 | **Version Control** | Git, GitHub |
+| **Data Visualisation** | Matplotlib |
 
 ---
 
