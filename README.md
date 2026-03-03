@@ -7,7 +7,7 @@ B.Tech Computer Science @ G.L. Bajaj Institute of Technology and Management
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/akashh-kumarr?style=social&label=Follow)](https://github.com/akashh-kumarr)
+  [![GitHub followers](https://img.shields.io/github/followers/akashh-kumarr?style=social&label=Follow)](https://github.com/akash-kumarrr)
   [![Email](https://img.shields.io/badge/Email-akashrbllps1444@gmail.com-red?style=flat-square&logo=gmail)](mailto:akashrbllps1444@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Kumar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akash-kumar-630578371/)
   [![GitHub](https://img.shields.io/badge/GitHub-akashh--kumarr-black?style=flat-square&logo=github)](https://github.com/akashh-kumarr)
