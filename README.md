@@ -44,7 +44,7 @@ status   : Always learning · Always building 🔥
 - 💡 Fascinated by the intersection of **AI**, **cryptography**, and **decentralized systems**
 - 🔐 Exploring **zero-knowledge proofs**, **consensus algorithms**, and **smart contracts**
 - ⚡ Competitive programmer with a love for **algorithmic problem-solving**
-- 🌱 Currently deep-diving into **system design**, **DSA**, and **neural networks**
+- 🌱 Currently deep-diving into **system design**, **DSA**
 - 🤝 Open to collaborations on anything ambitious and technically challenging
 
 </details>
@@ -74,7 +74,6 @@ status   : Always learning · Always building 🔥
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🔬 Domains of Interest
@@ -109,17 +108,6 @@ status   : Always learning · Always building 🔥
 
 </div>
 
----
-
-## ◈ What I'm Looking to Build
-
-<div align="center">
-
-| 🤖 AI + Full-Stack | 🔐 Crypto & Blockchain | 🧩 Open Source | 🚀 Startups |
-|:---:|:---:|:---:|:---:|
-| Intelligent apps that solve real problems | ZK proofs, DeFi tools, distributed ledgers | Community-driven, impactful projects | Ambitious ideas that push limits |
-
-</div>
 
 ---
 
